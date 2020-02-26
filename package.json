@@ -1,0 +1,23 @@
+{
+  "name": "JinYong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijiyeo/JinYong.git"
+  },
+  "keywords": [],
+  "author": "ljy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lijiyeo/JinYong/issues"
+  },
+  "homepage": "https://github.com/lijiyeo/JinYong#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
